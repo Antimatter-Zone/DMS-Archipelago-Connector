@@ -1,0 +1,7 @@
+.gradle/
+build/
+*.log
+connector-state.json
+connector-state.json.tmp
+connector.lock
+dms-ap-config.json
